@@ -52,7 +52,7 @@ admin.site.register(Employee,EmployeeAdmin)
 
 
 ## OUTPUT
-![Alt text](<Screenshot (5).png>)
+![Screenshot (5)](https://github.com/premjivip/ORM/assets/143831886/4f92bac6-1463-4aa7-a224-e0ce6cafee23)
 
 
 ## RESULT
